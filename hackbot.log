@@ -1,0 +1,9 @@
+ERROR    | ❌ Error: API key is required (either via --api-key or [1;34mHACKBOT_API_KEY[0m environment variable)
+INFO     | ✅ Authentication successful
+INFO     | [1;34mStarting analysis... Press [1;36mCtrl+C[1;34m to cancel at any time[0m
+INFO     | Starting HackBot Scope analysis session 'meet-pay-open-issue' at 2025-05-31 12:20:58 UTC
+INFO     | HackBot Scope analysis session 'meet-pay-open-issue' completed at 2025-05-31 12:23:56 UTC
+INFO     | ✅ Scope analysis done!
+INFO     | [1;32m✅ Scope analysis completed successfully. Now try running [1;36mhackbot run[1;32m to run the hackbot campaign.
+INFO     | 
+✅ Hackbot done!
